@@ -1,0 +1,112 @@
+.jumbotron {
+    text-align: center;
+    background: none;
+}
+
+.sectionLight {
+    background-color: #ECEEEF;
+    padding: 2rem;
+}
+
+.sectionDark {
+    background-color: #CCCCCC;
+    padding: 2rem;
+}
+
+/*
+.newsletterWrapper {
+    margin-top: 20px;
+
+}
+*/
+
+button.getNewsletterBtn {
+    background-color: #008000;
+    /*
+    color: #FFFFFF;
+    */
+    display: block;
+    margin: auto;
+}
+
+/*
+button.getNewsletterBtn:hover {
+    color: #FFFFFF;
+}
+*/
+
+h5.modal-title {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+/*
+img.imgLogo {
+    margin: auto;
+    display: block;
+}
+*/
+
+.modalFormWrapper {
+    padding: 2rem;
+}
+
+.modalBtn {
+    background-color: #008000;
+}
+
+img.imgCenter {
+    margin: auto;
+    display: block;
+}
+
+button.btnREIVideo {
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 55%;
+    background-color: #D05802;
+    /*
+    background-color: #CE572C;
+    background-color: #47583F;
+    */
+}
+
+p.pLogo {
+    color: #FFFFFF;
+    /*
+    font-size: 1.5rem;
+    display: block;
+    padding: 20px;
+    */
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+    margin: auto;
+}
+
+.socialWrapper {
+    margin: auto;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3B5998;
+}
+
+.fa-instagram {
+    color: #8A3AB9;
+}
+
+.fa-twitter-square {
+    color: #00ACEE;
+}
